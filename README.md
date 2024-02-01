@@ -2,8 +2,8 @@
 
 ## Data Used
 
-overwatch.csv - Data from Overwatch subreddit
-apexlegends.csv - Data from apexlegends subreddit
+overwatch.csv - Data from Overwatch subreddit\
+apexlegends.csv - Data from apexlegends subreddit\
 subredditdata.csv - Merged dataset from both subreddits
 
 ## Problem Statement
